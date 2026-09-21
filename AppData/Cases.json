@@ -1,0 +1,164 @@
+[
+  {
+    "CaseId": 653,
+    "CreatedOn": "2026-01-05 13:44",
+    "Description": "",
+    "EditedOn": "2026-09-21 10:02",
+    "EndingYear": "2005",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.3",
+    "Name": "DMD_0",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-1",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 262,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 261,
+    "ScenarioGroup": "AllScenario",
+    "ScenarioGroupId": 260,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "user",
+    "ModelFramework": "Times"
+  },
+  {
+    "CaseId": 654,
+    "CreatedOn": "2026-01-05 13:55",
+    "Description": "",
+    "EditedOn": "2026-09-21 10:02",
+    "EndingYear": "2005",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.3",
+    "Name": "DMD_1",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-1",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 262,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 261,
+    "ScenarioGroup": "AllScenario",
+    "ScenarioGroupId": 260,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "user",
+    "ModelFramework": "Times"
+  },
+  {
+    "CaseId": 652,
+    "CreatedOn": "2020-06-02 15:09",
+    "Description": "Demo Step 001",
+    "EditedOn": "2026-09-21 10:02",
+    "EndingYear": "2005",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.3",
+    "Name": "DMD_2",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-1",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 262,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 261,
+    "ScenarioGroup": "DemoS_001",
+    "ScenarioGroupId": 263,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "user",
+    "ModelFramework": "Times"
+  }
+]
