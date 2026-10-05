@@ -1,0 +1,6 @@
+lpmethod 1
+iis 1
+rerun yes
+THREADS=7
+advind=0
+names no
